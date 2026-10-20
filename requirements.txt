@@ -1,0 +1,17 @@
+# Environnement GPU CUDA compatible avec Unsloth.
+# Installer PyTorch pour la version CUDA de la machine avant ces dépendances.
+unsloth
+transformers
+peft
+datasets
+bitsandbytes
+xformers
+trl
+torch
+torchvision
+Pillow
+matplotlib
+tqdm
+fastapi
+uvicorn
+python-multipart
